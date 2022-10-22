@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Hi, my name is Harshil Patel<br>
+- 🤔 I am interested in software engineering and development.
+- 🌱 The languages I have worked with are C++, C#, Python, XAML, SQL, MATLAB, and VBA.
+- 📝 I am in the process of learning HTML, CSS, and JAVA.
+- 📫 Best way to reach me: patel3hs@mail.uc.edu
+- 🖇 LinkedIn: [harshilpatel25](https://www.linkedin.com/in/harshilpatel25/)
+
 
 <!--
 **Harshilp20/Harshilp20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
